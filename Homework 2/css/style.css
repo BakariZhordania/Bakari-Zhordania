@@ -1,0 +1,359 @@
+div {
+    font-size: 1.7em;
+    width: 600px;
+    height: 250px;
+    min-height: auto;
+    border: solid;
+    padding: 10px;
+    border-width: 1px;
+}
+.div2 {
+    font-size: 2em;
+    height: auto;
+    width: 600px;
+    min-height: auto;
+    border: solid;
+    padding: 10px;
+    border-width: 1px;
+
+}
+.h{
+    margin: 0;
+}
+.h1{
+    margin: 0;
+    margin-top: 20px;
+}
+.normal{
+    font-style: normal;
+    font-size: 0.80em;
+}
+.italic{
+    font-style: italic;
+    font-size: 1em;
+}
+.oblique{
+    font-style: oblique;
+    font-size: 0.75em;
+}
+.border2{
+    background-color: #eeeaaa;
+}
+.text1{
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+    font-size: xx-large;
+    text-shadow: 1px 1px white;
+}
+.text2{
+    text-align: center;
+    text-shadow: 1px 1px white;
+    font-size: medium;
+}
+.text3{
+    font-size: 1.5em;
+    color: red;
+    text-align: right;
+    font-weight: bold;
+}
+.text4{
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 1.2em;
+}
+.text5{
+    text-align: right;
+    font-weight: bold;
+    font-size: 0.9em;
+}
+.text6{
+    font-size: 0.6em;
+}
+
+.text7{
+    text-align: right;
+    font-weight: bold;
+    font-size: 0.9em;
+}
+.container1 {
+    font-size: 1.7em;
+    width: 600px;
+    height: 420px;
+    min-height: auto;
+    border: solid;
+    padding: 10px;
+    border-width: 1px
+
+}
+.border3{
+    width: 300px;
+    border-style: solid;
+    border-color: red;
+    border-width: 8px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    margin: 0px;
+}
+.border4{
+    width: 300px;
+    border-style: solid;
+    border-color: blue;
+    border-width: 8px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    margin: 0px;
+}
+.background1{
+    background-color: rgb(252, 239, 239);
+}
+.text07{
+    font-size: 1.3em;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: overline;
+
+
+}
+.text8{
+    font-size: 0.9em;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: line-through;
+
+}
+.text9{
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.text10{
+    word-spacing: 22px;
+    font-size: 0.8em;
+    font-style: normal;
+    font-weight: bold;
+}
+.text11{
+    padding-top: 20px;
+    letter-spacing: 5px;
+    font-size: 0.5em;
+}
+.text12 {
+    margin-top: 0px;
+    font-size: 0.95em;
+    font-weight: bold;
+
+}
+.text13 {
+    margin-top: 0px;
+    font-size: 0.50em;
+
+}
+
+.dotted {
+    font-size: medium;
+    border-color:#00ffff; 
+    border-style: dotted;
+    border-width: 5px;
+
+
+}
+.dashed {
+    font-size: medium;
+    border-color:#00ffff; 
+    border-style: dashed;
+    border-width: 5px;
+
+
+}
+.solid {
+    font-size: medium;
+    border-color:#00ffff; 
+    border-style: solid;
+    border-width: 5px;
+
+}
+.double {
+    font-size: medium;
+    border-color:#00ffff; 
+    border-style: double;
+    border-width: 5px;
+
+}
+.groove {
+    font-size: medium;
+    border-color:#00ffff; 
+    border-style: groove;
+    border-width: 5px;
+
+}
+.ridge {
+    font-size: medium;
+    border-color:#00ffff; 
+    border-style: ridge;
+    border-width: 5px;
+
+}
+.inset {
+    font-size: medium;
+    border-color:#00ffff; 
+    border-style: inset;
+    border-width: 5px;
+
+
+}
+.outset {
+    font-size: medium;
+    border-color:#00ffff; 
+    border-style: outset;
+    border-width: 5px;
+
+
+}
+.none {
+    font-size: medium;
+    border-color:#00ffff; 
+    border-style: none;
+    border-width: 5px;
+
+
+}
+.hidden {
+    font-size: medium;
+    border-color:#00ffff; 
+    border-style: hidden;
+    border-width: 5px;
+
+
+}
+.mix {
+    font-size: medium;
+    border-color:#00ffff; 
+    border-style: dotted dashed solid double;
+    border-width: 5px;
+
+
+}
+.text15{
+    font-size: 17px;
+}
+.container2{
+    width: 150px;
+    height: 100px;
+    border-radius: 25px;
+    background-color: brown;
+}
+.text16{
+    font-size: 17px;
+    margin: 0px;
+}
+.container3{
+    font-size: 1.7em;
+    width: 600px;
+    height: 610px;
+    min-height: auto;
+    border: solid;
+    padding: 10px;
+    border-width: 1px;
+
+}
+.container4{
+    width: 150px;
+    height: 100px;
+    border-radius: 25px;
+}
+.container5{
+    width: 150px;
+    height: 100px;
+    border-radius: 25px;
+    background-image: url("https://assets.mockaroon.com/wp-content/uploads/2017/12/15162545/Artistic_12x12-Background04.jpg");
+    background-position: center;
+    background-size: auto;
+}
+.container6{
+    border-style: ridge;
+    font-size: 1.7em;
+    width: 590px;
+    height: 550px;
+    min-height: auto;
+    padding: 10px;
+    border-width: 5px;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+.container7{
+    font-size: 1.7em;
+    width: 600px;
+    height: 560px;
+    min-height: auto;
+    border: solid;
+    padding: 10px;
+    border-width: 1px;
+}
+.container8{
+    border-width: 0px;
+    width: 150px;
+    height: 100px;
+    border-radius: 15px 50px 30px 5px;
+    background-color: brown;
+}
+.container9{
+    border-width: 0px;
+    width: 150px;
+    height: 100px;
+    border-radius: 15px 50px 30px;
+    background-color: brown;
+}
+.container10{
+    border-width: 0px;
+    width: 150px;
+    height: 100px;
+    border-radius: 15px 50px;
+    background-color: brown;
+}
+.container11{
+    font-size: 1.7em;
+    width: 600px;
+    height: 560px;
+    min-height: auto;
+    border: solid;
+    padding: 10px;
+    border-width: 1px;
+}
+.container12{
+    border-style: ridge;
+    font-size: 1.7em;
+    width: 590px;
+    height: 550px;
+    min-height: auto;
+    padding: 10px;
+    border-width: 5px;
+    margin-left: -10px;
+    margin-top: -10px;
+
+}
+.container13{
+    border-width: 1px;
+    width: 150px;
+    height: 100px;
+    border-radius: 50px/15px;
+    background-color: brown;
+}
+.container14{
+    border-width: 1px;
+    width: 150px;
+    height: 100px;
+    border-radius: 15px/50px;
+    background-color: brown;
+}
+.container15{
+    border-width: 1px;
+    width: 150px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: brown;
+}
