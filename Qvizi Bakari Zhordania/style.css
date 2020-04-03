@@ -1,0 +1,84 @@
+.div3{
+            width: 1000px;
+            height: 267px;
+            border: 2px groove black;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 20px;
+}
+.dot{
+    font-size: 20px;
+    border-color: seagreen;
+    border-style: dotted;
+    width: 800px;
+    margin-top: 30px;
+    border-width: 5px;
+    margin-left: 52px;
+}
+.div4 {
+    margin-left: 50px;
+    margin-right: 25px;
+    margin-top: 20px;
+    width: 815px;
+    height: 20px;
+    border-top-style: solid;
+    border-color: silver;
+}
+.dot1 {
+    font-size: 20px;
+    text-align: center;
+    border-color: seagreen;
+    border-style: dotted;
+    width: 800px;
+    margin-top: 5px;
+    border-width: 5px;
+    margin-left: 52px;
+}
+.box{
+    width: 815px;
+    height: 80px;
+    margin-left: 50px;
+    background-color: blue;
+    border-radius: 0px 0px 80px 80px
+}
+.table{
+    width: 1000px;
+    height: 700px;
+    border-collapse: collapse;
+}
+.line1{
+    border: 2px solid black;
+    width: 500px;
+    height: 150px;
+    border-collapse: collapse;
+}
+.line2{
+    border: 2px solid black;
+    height: 150px;
+    border-collapse: collapse;
+}
+thead tr td {
+    border: 2px solid black;
+    height: 200px;
+    border-collapse: collapse;
+}
+tbody tr td {
+    border: 2px solid black;
+    height: 200px;
+    border-collapse: collapse;
+}
+tfoot tr td {
+    border: 2px solid black;
+    height: 25px;
+    border-collapse: collapse;
+}
+.text5{
+    text-align: center;
+    color: chartreuse;
+}
+b {
+    text-align: center;
+}
+.bolo{
+    text-align: center;
+}
