@@ -1,0 +1,51 @@
+.table{
+    border-style: ridge;
+    width: 1300px;
+    height: 450px;
+    margin-left: 80px;
+    border-collapse: collapse;  
+    background-color: rgb(190, 190, 190);
+}
+.body {
+    background-color: rgb(190, 190, 190);
+}
+tbody tr td {
+    /* height: 30px; */
+    border: ridge;
+}
+p {
+    margin: 0px;
+}
+.box1 {
+    text-align: left;
+    background-color: red;
+}
+.box2 {
+    text-align: left;
+    background-color: green;
+    border-style: ridge;
+    font-style: italic;
+}
+.box3 {
+    text-align: left;
+    height: 30px;
+    background-color: white;
+}
+.box4 {
+    height: 70px;
+    background-color: rgb(190, 190, 190);
+}
+.box5 {
+    height: 30px;
+}
+.box6 {
+    height: 30px;
+}
+.box7{
+    width: 100px;
+    text-align: left;
+    background-color: blue;
+}
+.satauri {
+    margin-left: 300px;
+}

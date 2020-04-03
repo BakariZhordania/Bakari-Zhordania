@@ -1,0 +1,23 @@
+.table{
+     border-style: double;
+     width: 550px;
+     height: 300px;
+     margin-left: 200px;
+     border-collapse: collapse;
+}
+table td {
+    border: double;
+}
+table th {
+    border: double;
+}
+.table tfoot td{
+    background: green;
+    border: double;
+    padding: 10px;
+ }
+ .satauri{
+    margin-left: 425px;
+    margin-bottom: auto;
+}
+
